@@ -1,5 +1,3 @@
-Here’s a combined README file that includes descriptions for all three projects: a chatbot, a Tic-Tac-Toe game, and a movie recommendation system.
-
 ---
 
 # Project Descriptions
@@ -73,5 +71,3 @@ This movie recommendation system uses collaborative filtering to suggest movies 
 Each project demonstrates fundamental programming concepts and provides practical implementations of algorithms and data manipulation techniques. Explore each project to learn more about their functionalities and technologies!
 
 --- 
-
-Feel free to modify any sections to better suit your preferences!
